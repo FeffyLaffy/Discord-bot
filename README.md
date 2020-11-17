@@ -1,2 +1,7 @@
 # Discord-bot
-Simple Discord bot with cogs
+
+This simple how to create discord bot using python with cogs
+
+
+
+
